@@ -1,4 +1,4 @@
-float kgCO2m2 = 100;
+float kgCO2m2 = 44;
 
 void setup()              // run once, when the sketch starts
 {
